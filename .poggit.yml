@@ -5,5 +5,5 @@ branches:
 projects:
   Fortune:
     path: ""
-    icon: "/assets/image.png"
+    icon: "icon.png"
 ...
