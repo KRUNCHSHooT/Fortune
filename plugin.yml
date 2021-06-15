@@ -1,0 +1,13 @@
+name: Fortune
+
+main: KRUNCHSHooT\Fortune\Fortune
+
+version: 1.0.0
+
+api: [3.20.0, 3.21.0]
+
+author: KRUNCHSHooT
+
+mcpe-protocol: [ 440 ]
+
+website: https://github.com/KRUNCHSHooT/Fortune/
