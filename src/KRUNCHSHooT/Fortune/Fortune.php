@@ -8,7 +8,7 @@ use pocketmine\item\enchantment\Enchantment;
 
 class Fortune extends PluginBase {
 
-		public static $inDisableWorlds;
+	public static $inDisableWorlds;
 	
 	public function onEnable(){
 		$this->getLogger()->info("Fortune Plugin has been successfully registered");
