@@ -316,6 +316,9 @@ class FortuneListener implements Listener {
 							$event->setDrops([Item::get(Item::FLINT)]);
 						}
 					break;
+                                        //TODO: GlowStone
+                                        //TODO: Melon
+                                        //TODO: Sea Lantern
 				}
 			}
 		}
