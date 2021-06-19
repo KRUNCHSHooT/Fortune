@@ -11,7 +11,6 @@ class Fortune extends PluginBase {
 	public static $inDisableWorlds;
 	
 	public function onEnable(){
-		$this->getLogger()->info("Fortune Plugin has been successfully registered");
 		$this->getServer()->getPluginManager()->registerEvents(new FortuneListener($this), $this);
 		self::$inDisableWorlds = (array) $this->getConfig()->get("disableworlds");
 	}
