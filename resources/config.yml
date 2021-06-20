@@ -1,9 +1,9 @@
-# if you want this Fortune Enchantment is activated in some worlds
+# if you want this Fortune Enchantment is activated in some worlds(the world name must be from the folder name!)
 
 # you can add a world you want to disable For this Fortune
 
 disableworlds:
-
 - "world 1"
-
 - "world 2"
+- "world 3"
+- "world 4"
