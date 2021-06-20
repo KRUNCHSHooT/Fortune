@@ -13,6 +13,7 @@
 - Coal Ore✔
 - Gravel✔
 - Leaves✔
+- Glowstone✔
 
 ### can disable Fortune in any world you want✔
 
