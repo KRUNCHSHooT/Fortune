@@ -17,6 +17,11 @@
 
 ### can disable Fortune in any world you want✔
 
+## TODO
+
+- Melon
+- Sea Lantern
+
 ## 🔴 Issues
 
 did you find any bugs or errors while using this plugin? Report your issues [here](https://github.com/KRUNCHSHooT/Fortune/issues/new)
