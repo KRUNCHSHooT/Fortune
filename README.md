@@ -19,8 +19,8 @@
 
 ## 📝 TODO
 
-- [] add Melon
-- [] add Sea Lantern
+- [ ] add Melon
+- [ ] add Sea Lantern
 
 ## 🔴 Issues
 
