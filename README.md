@@ -4,7 +4,7 @@
 
 ## ✨Features
 
-### Available blocks for Fortune
+Available blocks for Fortune
 - Diamond Ore✔
 - Redstone Ore✔
 - Lapis Ore✔
@@ -15,7 +15,7 @@
 - Leaves✔
 - Glowstone✔
 
-### can disable Fortune in any world you want✔
+can disable Fortune in any world you want✔
 
 ## 📝 TODO
 
