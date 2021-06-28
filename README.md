@@ -31,5 +31,5 @@ did you find any bugs or errors while using this plugin?
 4. wait until i answer it
 
 ## 🖼️ Screenshot
-my Screenshot
-<img src="https://github.com/KRUNCHSHooT/Fortune/blob/main/screenshot.png">
+
+
