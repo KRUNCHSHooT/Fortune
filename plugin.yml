@@ -1,6 +1,6 @@
 name: Fortune
 main: KRUNCHSHooT\Fortune\Fortune
-version: 1.1.0
+version: 1.1.1
 api: 3.20.0
 author: KRUNCHSHooT
 mcpe-protocol: [ 448 ]
